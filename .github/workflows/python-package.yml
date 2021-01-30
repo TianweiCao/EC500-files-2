@@ -39,4 +39,4 @@ jobs:
         coverage run -m pytest example.py
     - name: Show coverage report
       run: |
-        coverager report -m
+        coverage report -m
