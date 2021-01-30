@@ -7,4 +7,4 @@ def test_add():
 
 def test_subtract():
     assert subtract(2, 3) == -1
-© 2021 GitHub, Inc.
+
